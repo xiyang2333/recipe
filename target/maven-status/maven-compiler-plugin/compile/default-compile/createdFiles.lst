@@ -1,0 +1,13 @@
+com\recipefinder\WebConfig.class
+com\recipefinder\pojo\Ingredients.class
+com\recipefinder\web\entity\RecipeRequest.class
+com\recipefinder\pojo\UnitEnum.class
+com\recipefinder\service\CoreService.class
+com\recipefinder\WebStartApplication.class
+com\recipefinder\web\CoreController.class
+com\recipefinder\pojo\Item.class
+com\recipefinder\web\entity\ResponseHeader.class
+com\recipefinder\pojo\Recipe.class
+com\recipefinder\service\impl\CoreServiceImpl.class
+com\recipefinder\web\entity\ResponseCode.class
+com\recipefinder\web\entity\RecipeResponse.class
